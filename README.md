@@ -27,8 +27,7 @@ J2ME MIDP 2.0 | MIT License | Version 3.4
 - 🌐 YouTube → 3GP format (144p/240p/360p) compatible with 99% of J2ME phones
 - 🎵 YouTube/TikTok/Facebook/Instagram → High-quality MP3 conversion
 - 📡 Automatic codec detection based on your phone's capabilities
-- 📶 Robust handling of slow connections (ED<img width="1024" height="1024" alt="icon" src="https://github.com/user-attachments/assets/9df8a161-eea2-4359-9190-a07511586ced" />
-GE/GPRS networks)
+- 📶 Robust handling of slow connections (EDGE/GPRS networks)
 - ⏳ Automatic resume after network interruptions
 - 🔒 Offline mode: play previously downloaded files without internet
 - 🔄 Smart fallback system when primary download method fails
@@ -117,7 +116,7 @@ GE/GPRS networks)
 
 ### Method 1: Bluetooth Transfer (Recommended)
 1️⃣ Prepare both files on your computer:
-   - `MediaPlayerPlusMIDlet.jar` (approximately 85 KB)
+   - `MediaPlayerPlusMIDlet.jar` (approximately 200+ KB)
    - `MediaPlayerPlusMIDlet.jad` (approximately 0.5 KB)
 2️⃣ Initiate Bluetooth transfer from computer to phone
 3️⃣ Accept incoming file transfer on your phone
@@ -254,7 +253,7 @@ Internet connection is ONLY required for new download operations. Once media is 
 
 MediaPlayerPlus was born from passion for the J2ME ecosystem and desire to breathe new life into the millions of functional Java phones still in use worldwide. Unlike modern resource-hungry applications:
 
-✨ We prioritize extreme lightness (just 85 KB!)  
+✨ We prioritize extreme lightness (just 200KB!)  
 ✨ We respect battery life (zero background processes)  
 ✨ We work without user accounts or tracking  
 ✨ We use 100% standard J2ME APIs (no dangerous hacks)  
