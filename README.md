@@ -27,7 +27,8 @@ J2ME MIDP 2.0 | MIT License | Version 3.4
 - 🌐 YouTube → 3GP format (144p/240p/360p) compatible with 99% of J2ME phones
 - 🎵 YouTube/TikTok/Facebook/Instagram → High-quality MP3 conversion
 - 📡 Automatic codec detection based on your phone's capabilities
-- 📶 Robust handling of slow connections (EDGE/GPRS networks)
+- 📶 Robust handling of slow connections (ED<img width="1024" height="1024" alt="icon" src="https://github.com/user-attachments/assets/9df8a161-eea2-4359-9190-a07511586ced" />
+GE/GPRS networks)
 - ⏳ Automatic resume after network interruptions
 - 🔒 Offline mode: play previously downloaded files without internet
 - 🔄 Smart fallback system when primary download method fails
@@ -319,3 +320,4 @@ Phone 📞 : +225 0788463112
 💎 Because an 85 KB file can still bring joy in our gigabyte-obsessed world  
 
 ✨ Thank you for using MediaPlayerPlus — The J2ME spirit lives on! ✨
+<img width="1024" height="1024" alt="icon" src="https://github.com/user-attachments/assets/88acfc47-34ee-43fe-a758-7a94b0d3af41" />
