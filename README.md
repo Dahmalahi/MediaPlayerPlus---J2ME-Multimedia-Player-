@@ -1,5 +1,5 @@
 # 📱 MediaPlayerPlus - J2ME Multimedia Player 🎵🎬
-
+<img width="1024" height="1024" alt="icon" src="https://github.com/user-attachments/assets/88acfc47-34ee-43fe-a758-7a94b0d3af41" />
 J2ME MIDP 2.0 | MIT License | Version 3.4
 
 > ✨ All-in-one multimedia player for Java phones (J2ME)  
@@ -320,4 +320,4 @@ Phone 📞 : +225 0788463112
 💎 Because an 85 KB file can still bring joy in our gigabyte-obsessed world  
 
 ✨ Thank you for using MediaPlayerPlus — The J2ME spirit lives on! ✨
-<img width="1024" height="1024" alt="icon" src="https://github.com/user-attachments/assets/88acfc47-34ee-43fe-a758-7a94b0d3af41" />
+
